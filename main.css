@@ -1,0 +1,38 @@
+img {
+    width: 100px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.beersImage {
+    width: 100%;
+    height: auto;
+}
+
+h1, h2, th, td {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-size: 2em;
+}
+
+body {
+background-image: url("burgundy-1122165_1920.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: 100% 100%;
+}
+
+table {
+    border-radius: 10px;
+    background-color: rgba(158, 134, 81, 0.411);
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+
+
